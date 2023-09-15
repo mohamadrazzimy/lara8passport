@@ -1,0 +1,7 @@
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: tXll1sTSr8QCCPGNHXFBrxnIxIJLjVO4DNGtE7xe
+Password grant client created successfully.
+Client ID: 2
+Client secret: pV7YnUH2K4AcHHjnDbtJan0qRGDsx5HBYIXpXp2T

@@ -1,0 +1,7 @@
+_HiStOrY_V2_
+DB::table('sqlite_master')->select('name')->where('type',\040'table')->orderBy('name')->get()
+DB::table('sqlite_master')->select('name')->where('type',\040'table')->orderBy('name')->get()
+DB::table('sqlite_master')->select('name')->where('type',\040'table')->orderBy('name')->get()
+oauth_personal_access_clients::all()
+DB::select('SELECT\040*\040FROM\040oauth_personal_access_clients');
+DB::select('SELECT\040*\040FROM\040oauth_personal_access_tokens');
